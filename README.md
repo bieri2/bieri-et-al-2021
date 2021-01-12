@@ -1,7 +1,7 @@
 # Impacts of large-scale soil moisture anomalies on the hydroclimate of South America
 ## DOI: 10.1175/JHM-D-20-0116.1
 
-This repository includes a suite of Jupyter notebooks used to complete analysis for Impacts of large-scale soil moisture anomalies on the hydroclimate of South America (Bieri et al. 2021). For details of the analysis, please see the publication. 
+This repository includes a suite of Jupyter notebooks used to complete analysis for Impacts of large-scale soil moisture anomalies on the hydroclimate of South America (Bieri et al. 2021). For details of the analysis, please see the publication, linked here: https://doi.org/10.1175/JHM-D-20-0116.1.
 
 There are four notebooks included in this repository. A brief decription of each is provided below. 
 
