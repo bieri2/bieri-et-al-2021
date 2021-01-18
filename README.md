@@ -12,3 +12,5 @@ Please contact bieri2@illinois.edu with any questions about this code.
 <b>eof_func.ipynb</b>: Script with functions to complete extended EOF analysis. 
 
 <b>run_eof.ipynb</b>: Script to read reanalysis data and perform EOF analysis. To run this script, read_redata.ipynb and eof_func.ipynb must be available in the same directory. 
+
+<b>analyze_cesm_output.ipynb</b>: Script to read CESM model output, apply processing steps, and plot results. 
